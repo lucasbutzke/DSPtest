@@ -1,0 +1,6 @@
+dspFunc.c:28:6:multiply	24	static
+dspFunc.c:37:6:addArm	24	static
+dspFunc.c:51:11:peakToPeakArm	24	static
+dspFunc.c:73:11:maxArm	16	static
+dspFunc.c:82:11:minArm	16	static
+dspFunc.c:94:11:maxFFTArm	16	static
